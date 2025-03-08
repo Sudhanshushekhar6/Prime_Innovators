@@ -1,3 +1,4 @@
+"use client";
 const handleEmailSignIn = async (e: React.FormEvent) => {
     e.preventDefault();
     setError("");
