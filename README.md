@@ -10,16 +10,16 @@ The official template repository for Define 3.0
  Cover Image  If applicable
 
 ### Team Information
-- **Team Name**: <Prime Innovators> 
-- **Track**: < Sustainaability [Open Track ] >
+- **Team Name**: < Prime Innovators > 
+- **Track**: < Sustainability [Open Track ] >
 
 ### Team Members
 | Name | Role | GitHub | LinkedIn |
 |------|------|--------|----------|
-| [Full Name] | [Role] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
-| [Full Name] | [Role] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
-| [Full Name] | [Role] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
-| [Full Name] | [Role] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
+| [ Chandan Kumar ] | [ Frontend Developer] | [@username](https://github.com/chandanmourya000) | [Profile](https://www.linkedin.com/in/chandan-kumar-19990427a/) |
+| [ Ujjawal Kumar ] | [ Backend Developer ] | [@username]( https://github.com/Ujjawalkumar1) | [Profile]( https://www.linkedin.com/in/ujjawalk1/) |
+| [ Raushan Kumar ] | [ AI/ML Engineer ] | [@username](https://github.com/raushan0785) | [Profile](https://www.linkedin.com/in/raushan-kumar-46a03b257/) |
+| [ Sudhanshu Kumar ] | [ AI/ML Engineer ] | [@username](https://github.com/Sudhanshushekhar6) | [Profile](https://www.linkedin.com/in/sudhanshu-kumar-a9bb36268/) |
 
 ## Project Details
 
