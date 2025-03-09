@@ -86,8 +86,9 @@ _Brief overview of your development process and milestones_
 _Discuss technical challenges and how you overcame them_
 
 ### Future Enhancements
-_Share your vision for future development_
-
+- Grid Interaction & Demand Response – Enable seamless integration with smart grids, allowing users to sell excess solar energy back to the grid or participate in demand response programs for incentives.
+- Blockchain-Based Energy Trading – Implement a decentralized peer-to-peer (P2P) energy trading system using blockchain, enabling users to buy and sell excess renewable energy securely.
+- IoT & Smart Home Integration – Connect with IoT-enabled devices and smart assistants (e.g., Google Home, Alexa) to automate and optimize energy consumption in real time.
 ### References (if any)
 - [Reference 1](link)
 - [Reference 2](link)
