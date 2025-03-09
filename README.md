@@ -46,12 +46,11 @@ _Develop a smart AI-powered platform that optimizes energy consumption based on 
 ## Technical Implementation
 
 ### Technologies Used
-- **Frontend**: [Technologies]
-- **Backend**: [Technologies]
-- **Database**: [Technologies]
-- **APIs**: [Technologies]
-- **DevOps**: [Technologies]
-- **Other Tools**: [Technologies]
+- **Frontend**: [React.js, Tailwind CSS]
+- **Backend**: [Node.js, Express.js,JWT]
+- **Database**: [Firebase, MongoDB]
+- **APIs**: [EIA API, Solaredge API, OpenWeather Map API]
+- **Other Tools**: [Tensorflow, Scikit-learn, ML Algorithm]
 
 ### Key Features
 - Real-time Tariff Monitoring – Tracks dynamic electricity pricing to help users make cost-effective energy decisions.
