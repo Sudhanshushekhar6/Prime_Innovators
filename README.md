@@ -63,27 +63,59 @@ _Develop a smart AI-powered platform that optimizes energy consumption based on 
 ## Setup Instructions
 
 ### Prerequisites
-- Requirement 1
-- Requirement 2
-- Requirement 3
+- Machine Learning frameworks: TensorFlow, Scikit-Learn, Google Teachable Machine
+- Weather & solar data APIs: SolarEdge API, OpenWeatherMap API
+- Real-time energy pricing APIs: EIA API, Octopus Energy API
 
 ### Installation 
 ```bash
-
+1️⃣ Clone the repository  
+     git clone https://github.com/SudhanshuShekhar6/solarwise.git
+``` 
+```bash
+2️⃣ Navigate into the project directory  
+    cd Solarwise
+  ```
+```bash
+3️⃣ Install dependencies  
+   npm install  
 ```
 
 ### Running the Project
 ```bash
-
-```
-
+1️⃣ Start the Server 
+    npm run dev
+``` 
+```bash
+2️⃣ Open the browser and go to:
+    http://localhost:3000
+  ```
 ## Additional Resources
 
 ### Project Timeline
-_Brief overview of your development process and milestones_
+- Phase 1: Research & Planning
+- Phase 2: Frontend Development
+- Phase 3: AI Model Development
+- Phase 4: Backend Development
+- Phase 5: Testing & Optimization
+- Phase 6: Deployment & Finalization
 
 ### Challenges Faced
-_Discuss technical challenges and how you overcame them_
+- Data Collection & Real-Time Monitoring
+   - Challenge:
+     - Gathering real-time electricity tariff data for different regions.
+   - Overcame It:
+     - Used APIs like EIA, Octopus Energy, or SolarEdge for real-time tariff and solar data.
+-  AI Forecasting & Model Accuracy
+     - Challenge:
+       - Developing an accurate AI model to predict energy consumption and solar generation.
+     - Overcame It:
+       - Trained machine learning models with past energy consumption + weather data.
+-  Smart Appliance Scheduling
+     - Challenge:
+       - Implementing automated scheduling based on ToU tariffs while ensuring user flexibility.
+      - Overcame It:
+       - Designed an intuitive UI allowing users to customize energy usage preferences.       
 
 ### Future Enhancements
 - Grid Interaction & Demand Response – Enable seamless integration with smart grids, allowing users to sell excess solar energy back to the grid or participate in demand response programs for incentives.
@@ -96,12 +128,12 @@ _Discuss technical challenges and how you overcame them_
 ---
 
 ### Submission Checklist
-- [ ] Completed all sections of this README
-- [ ] Added project demo video
-- [ ] Provided live project link
-- [ ] Ensured all team members are listed
-- [ ] Included setup instructions
-- [ ] Submitted final code to repository
+- [✅] Completed all sections of this README
+- [✅] Added project demo video
+- [✅] Provided live project link
+- [✅] Ensured all team members are listed
+- [✅] Included setup instructions
+- [✅] Submitted final code to repository
 
 ---
 
