@@ -27,10 +27,14 @@ The official template repository for Define 3.0
 _Our project focuses on leveraging AI and data-driven insights to promote sustainable energy consumption. By analyzing real-time energy usage, weather patterns, and smart device data, we provide actionable recommendations to optimize efficiency and reduce costs. Our solution empowers users to make informed decisions, contributing to a greener future_
 
 ### Problem Statement
-_Describe the problem your project aims to solve_
+_Traditional energy consumption patterns fail to optimize costs with Time-of-Use (ToU) tariffs,
+ leading to higher bills and inefficient solar energy use. The lack of real-time monitoring and
+ smart scheduling limits energy efficiency. Our Platform aims to solve this by providing real-time
+ tariff tracking, AI-driven forecasting, and automated energy management, maximizing savings
+ and promoting renewable energy usage._
 
 ### Solution
-_Explain your approach to solving the problem_
+_Develop a smart AI-powered platform that optimizes energy consumption based on Time-of-Use (ToU) tariffs, helping users reduce costs and improve efficiency. The platform leverages real-time data, analytics, and automation to provide intelligent energy management._
 
 ### Demo
 [![Project Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
