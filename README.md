@@ -54,9 +54,11 @@ _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link
 - **Other Tools**: [Technologies]
 
 ### Key Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Real-time Tariff Monitoring – Tracks dynamic electricity pricing to help users make cost-effective energy decisions.
+- Energy Analytics & Insights – Provides detailed consumption reports and trends for better awareness.
+- Smart Appliance Scheduling – Automates appliance usage to align with low-cost energy periods.
+- Solar Energy Management – Maximizes solar energy utilization and grid interaction for efficiency.
+- AI-driven Forecasting & Recommendations – Predicts future energy consumption and suggests optimal usage strategies.
 
 ## Setup Instructions
 
