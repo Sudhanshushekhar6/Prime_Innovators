@@ -41,7 +41,7 @@ _Develop a smart AI-powered platform that optimizes energy consumption based on 
 
 
 ### Live Project
-[Project Name](https://tourmaline-dragon-373be6.netlify.app/)
+[SolarWise](https://tourmaline-dragon-373be6.netlify.app/)
 
 ## Technical Implementation
 
