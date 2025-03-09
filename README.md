@@ -37,7 +37,7 @@ _Traditional energy consumption patterns fail to optimize costs with Time-of-Use
 _Develop a smart AI-powered platform that optimizes energy consumption based on Time-of-Use (ToU) tariffs, helping users reduce costs and improve efficiency. The platform leverages real-time data, analytics, and automation to provide intelligent energy management._
 
 ### Demo
-[![Project Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/UUPBs9RNHvU)
+[![Project Demo](https://img.youtube.com/vi/UUPBs9RNHvU/0.jpg)](https://youtu.be/UUPBs9RNHvU)
 
 
 ### Live Project
