@@ -90,8 +90,8 @@ _Discuss technical challenges and how you overcame them_
 - Blockchain-Based Energy Trading – Implement a decentralized peer-to-peer (P2P) energy trading system using blockchain, enabling users to buy and sell excess renewable energy securely.
 - IoT & Smart Home Integration – Connect with IoT-enabled devices and smart assistants (e.g., Google Home, Alexa) to automate and optimize energy consumption in real time.
 ### References (if any)
-- [Reference 1](link)
-- [Reference 2](link)
+- [Reference 1](https://www.eia.gov/opendata/)
+- [Reference 2](https://www.tesla.com/powerwall)
 
 ---
 
