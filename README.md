@@ -6,8 +6,8 @@ The official template repository for Define 3.0
 
 
 
-# < Project Name >
- Cover Image  If applicable
+# < Solarwise >
+
 
 ### Team Information
 - **Team Name**: < Prime Innovators > 
@@ -24,7 +24,7 @@ The official template repository for Define 3.0
 ## Project Details
 
 ### Overview
-_A concise summary of your project (2-3 sentences)_
+_Our project focuses on leveraging AI and data-driven insights to promote sustainable energy consumption. By analyzing real-time energy usage, weather patterns, and smart device data, we provide actionable recommendations to optimize efficiency and reduce costs. Our solution empowers users to make informed decisions, contributing to a greener future_
 
 ### Problem Statement
 _Describe the problem your project aims to solve_
